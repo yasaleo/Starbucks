@@ -1,0 +1,164 @@
+.top-section {
+    background-color: #d4e9e2;
+}
+
+.header_outer_container {
+    border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+}
+
+/* .text-top{
+    text-align: center;
+    font-weight: bold;
+} */
+
+.top-section h1 {
+    font-size: 24px !important;
+}
+.top-section h4 {
+    font-size: 19px !important;
+}
+
+.sm{
+    font-size: 16px;
+    line-height: 1.75;
+
+}
+
+.play_color{
+    background-color: #d4e9e2;
+}
+
+/* .nav-item i:hover {
+    color: green
+} */
+
+.col-part1 {
+    background-color:#fa91aa;
+}
+.order_color{
+    background-color: #fa91aa;
+    font-weight: bold;
+}
+
+/* .size_adjust {
+    font-size: 3.5em !important;
+} */
+.col-part3{
+    background-color:#d4e9e2;
+}
+.order_color3{
+    background-color:#d4e9e2;
+}
+@media (min-width: 1024px)
+ {
+     .happy{
+    font-size: 66px ;
+    letter-spacing: 2px;
+    font-weight: 700;
+    line-height: 1.2;
+    text-align: center !important;
+     }
+
+ }
+
+
+
+
+.bg-color{
+    background-color: #9bf5b4;
+}
+
+.col-part2 {
+    background-color: #d4e9e2;
+}
+
+.size_adjust2 {
+    font-size: 1.875em;
+    font-weight: 500;
+    font-family: inherit;
+}
+
+.button-bg_set2 {
+    background-color: #d4e9e2;
+    color: rgb(29, 26, 26);
+    border-color: rgb(29, 26, 26);
+}
+
+.col-part3 {
+    background-color: #d4e9e2;
+    ;
+}
+
+.button-bg_set3 {
+    background: #d4e9e2
+}
+
+.txt_size{
+    font-size: 10px;
+    line-height: 1.8;
+}
+
+.bord_rad {
+    border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+}
+
+.foot-setting li {
+    list-style: none;
+}
+
+.foot-setting ul {
+    padding: 0;
+    line-height: 2.795em;
+}
+
+footer li {
+    color: rgba(0, 0, 0, 0.58);
+}
+
+footer li:hover {
+    cursor: pointer;
+    color: black;
+}
+
+footer li {
+    list-style: none;
+    line-height: 2.795em;
+}
+
+.text-adjment {
+    display: flex;
+
+}
+
+@media all and (min-width: 768px) {
+    .width-btw {
+        border-right: 3px solid rgba(0, 0, 0, 0.38);
+    }
+}
+
+
+.final-line-hover h6 {
+    color: #000;
+}
+
+.final-line-hover h6:hover {
+    cursor: pointer;
+    color: black;
+    text-decoration: underline;
+}
+
+.bord_rad2 {
+    border-top: 2px solid rgba(0, 0, 0, 0.1);
+}
+
+.final_sent {
+    margin-left: 2em;
+}
+
+.final_text {
+    font-size: .925em;
+}
+
+.circle{
+    border-radius: px;
+}
